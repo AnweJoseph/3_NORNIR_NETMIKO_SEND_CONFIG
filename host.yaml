@@ -1,0 +1,8 @@
+---
+
+R3:
+  hostname: "192.168.164.137"
+  groups:
+    - cisco
+
+
